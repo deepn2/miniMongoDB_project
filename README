@@ -23,4 +23,8 @@ Example: { id: “5201_1”, review: [{word: “like”,count:2}, {word: “movi
 
 Additional File:
 positive words.txt: a list of positive words you may use when categorizing the review
+<<<<<<< HEAD
 negative words.txt: a list of negative words you may use when categorizing the review
+=======
+negative words.txt: a list of negative words you may use when categorizing the review
+>>>>>>> 8f8bd9c6093b57384b46c1691a880e60253077dc
