@@ -14,7 +14,7 @@ After scanning all words, if sentiment score ≥ 0, the review is positive; if t
 
 
 Datasets Description:
-UnlabelReview.json: It contains review id and review contents, the review is raw data from costumers, organized in paragraph.
+UnlabelReview.json: It contains review id and review contents, the review is raw data from customers, organized in paragraph.
 Example: { id: “5201_1”, review: “I like the movie, it’s fantastic although I hate  the actor  James in the movie”}
 
 UnlabelReviewAfterSpliting.json: It contains review id and review contents, each review has been split to word and word count. It is processed from UnlabelReview.json. We have omitted part of useless words, like stop words, like “is”,” are”, “do” and so on).
