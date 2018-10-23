@@ -1,9 +1,5 @@
 Sentiment of Reviews 
 
-Given a set of reviews, we developed a super simple “sentiment” analyzer for these reviews.
-From two collections of words (positive, negative respectively),  we counted which words prevail in a review (algorithm below)and are provided and represented in JSON format
-
-The task was to categorize reviews as positive or negative.  
 
 Algorithm used:
 Set sentiment score is 0;
